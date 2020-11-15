@@ -37,6 +37,7 @@ export const NavItem = styled.div`
   }
   &.active {
     color: #ea6f5a;
+    
   }
 `
 
